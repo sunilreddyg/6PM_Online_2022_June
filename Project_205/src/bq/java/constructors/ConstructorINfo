@@ -37,7 +37,7 @@ Constructor:-->
 		
 			new TestB();
 					
-			=> new keyword follows only class instances
+			=> new keyword follows only class instances[Constructors]
 			=> Using Constructor we can call class instant methods
 						and variables
 			[Which doesn't have static specifier called instant

@@ -28,8 +28,11 @@ public class TVRemote
 		System.out.println("turnoff executed");
 	}
 	
-	
-	
-	
+	public static void main(String[] args) 
+	{
+		new TVRemote().turnon();
+		new TVRemote().nextChannel();
+		
+	}
 	
 }

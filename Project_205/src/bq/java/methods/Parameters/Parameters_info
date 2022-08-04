@@ -1,0 +1,15 @@
+Parameters:-->
+
+			=> parameters pass runtime values to method
+			=> Parameters change state of method behavior..
+			
+			Advantages:-->
+			=> Parameters helps to avoid hard coded writing inside programming
+			=> Allow method  to reuse with different data instead of repeating
+			=> We can avoid code duplication
+			
+			
+Parameter types:-->
+			CallByValue
+			CallByreference
+			
