@@ -34,7 +34,11 @@ public class Product
 	public void AllDetails(String name,int quantity,double price,boolean status)
 	{
 		
-		System.out.println(name+"\t"+quantity+price+status);
+		System.out.println(name);
+		System.out.println(quantity);
+		System.out.println(price);
+		System.out.println(status);
+		
 	}
 	
 	
