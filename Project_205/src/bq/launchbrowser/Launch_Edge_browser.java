@@ -14,11 +14,17 @@ public class Launch_Edge_browser {
 		//Launch edge browser
 		EdgeDriver edge=new EdgeDriver();
 		
-		//loadwebpage
+		//load webpage
 		edge.get("http://instagram.com");
 		
 		//Printing title of the page
 		System.out.println(edge.getTitle());
+		
+		
+		
+		
+		
+		
 
 	}
 
