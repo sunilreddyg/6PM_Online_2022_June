@@ -6,9 +6,11 @@ import org.openqa.selenium.WebElement;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Dropdown_Selection_Using_Click_Method {
+public class Dropdown_Selection_Using_Click_Method 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		
 		WebDriver driver=WebDriverManager.chromedriver().avoidShutdownHook().create();
 		driver.get("https://www.facebook.com/reg/");
