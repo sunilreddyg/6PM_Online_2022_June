@@ -40,10 +40,11 @@ public class SwitchTo_Next_Window {
 		System.out.println(driver.getTitle());
 		
 		
-		/*
-		 * //Switch to First window driver.switchTo().window(W1);
-		 * System.out.println(driver.getTitle());
-		 */
+		
+	    //Switch to First window 
+	    driver.switchTo().window(W1);
+	    System.out.println(driver.getTitle());
+		 
 		
 
 	}
