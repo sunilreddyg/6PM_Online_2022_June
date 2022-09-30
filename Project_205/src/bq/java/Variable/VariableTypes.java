@@ -3,7 +3,7 @@ package bq.java.Variable;
 public class VariableTypes 
 {
 	//Global variable [Instant Variable]
-	int a=100;
+	public int a=100;
 	boolean flag=true;
 	
 	
