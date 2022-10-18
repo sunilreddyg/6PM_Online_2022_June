@@ -22,7 +22,7 @@ UserInterface verification commands:-->
 	 
 	 			getText
 	 			getAttribute
-	 			getCssselector
+	 			getCssvalue
 	 			getLocation
 	 			getSize
 	 			getTagname
